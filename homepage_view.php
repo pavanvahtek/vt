@@ -8,6 +8,7 @@
         <li data-target="#myCarousel" data-slide-to="4"></li>
         <li data-target="#myCarousel" data-slide-to="5"></li>
         <li data-target="#myCarousel" data-slide-to="6"></li>
+        <li data-target="#myCarousel" data-slide-to="7"></li>
     </ol>   
 	<!--pop up box started-->
 	<div id="myModal" class="modal " role="dialog">
@@ -31,17 +32,20 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-			<img src="<?=base_url(); ?>assets/images/new_images/slider_1.jpg" alt="Sliders_spicybros image" /> 
+			<img src="<?=base_url(); ?>assets/images/new_images/Sliders_spicybros.jpg" alt="Sliders_spicybros image" /> 
 		</div>
         <div class="item">
 			<img src="<?=base_url(); ?>assets/images/new_images/Sliders_values.jpg" alt="Sliders_values image" /> 
 		</div>
         <div class="item">
-        	<img src="<?=base_url(); ?>assets/images/new_images/Slider_2.jpg" alt="Sliders_2 image" />
-		</div> 
+            <img src="<?=base_url(); ?>assets/images/new_images/Sliders_3in1.jpg" alt="Sliders_3in1 image" />
+        </div> 
+		<div class="item">
+            <img src="<?=base_url(); ?>assets/images/new_images/Sliders_edibowl.jpg" alt="Sliders_edibowl image" />
+        </div>
 		<div class="item">
             <img src="<?=base_url(); ?>assets/images/new_images/Sliders_hertybowl.jpg" alt="Sliders_hertybowl image" />
-        </div> 
+        </div>
 		<div class="item">
             <img src="<?=base_url(); ?>assets/images/new_images/Sliders_porotilla.jpg" alt="Sliders_porotilla image" />
         </div>
